@@ -1,0 +1,136 @@
+/* Internet Explorer 4-8 */
+@font-face {
+font-family: 'Grotesk';
+src: url('Grotesk-Medium.eot');
+font-weight: normal;
+}
+
+
+/* WOFF pour navigateurs récents, WOFF2 pour navigateurs très récents */
+@font-face {
+font-family: 'Grotesk';
+src:
+url('Grotesk-Medium.woff2') format('woff2'),
+url('Grotesk-Medium.woff') format('woff');
+font-weight: normal;
+}
+
+/* SVG pour vieux navigateurs mobiles */
+@font-face {
+font-family: 'Grotesk';
+src: url('Grotesk-Medium.svg') format('svg');
+font-weight: normal;
+}
+
+/* TTF pour vieux Firefox, Chrome, Android et Opera */
+@font-face {
+font-family: 'Grotesk';
+src: url('Grotesk-Medium.ttf') format('truetype');
+font-weight: normal;
+}
+
+body {
+	margin-top: 100px;
+	margin-right: 70px;
+	margin-bottom: 80px;
+	margin-left: 70px;
+	background-color: white;
+	color: #000000;
+	font-family: 'Grotesk',sans-serif;
+	font-weight: normal;
+	text-align: left;
+	text-rendering: optimizeLegibility; /* Use with caution */
+	-moz-font-feature-settings: "kern";
+	-moz-font-feature-settings: "kern=1";
+	-ms-font-feature-settings: "kern";
+	-o-font-feature-settings: "kern";
+	-webkit-font-feature-settings: "kern";
+	font-feature-settings: "kern";
+	font-kerning: normal;
+	-webkit-user-modify: read-write;
+  -moz-user-modify: read-write;
+  user-modify: read-write;
+}
+
+a {
+	text-decoration:none;
+	font-family: 'Grotesk',sans-serif;
+}
+
+b {
+color:crimson;
+font-weight:normal;
+
+}
+
+p.trismegiste {
+	font-size: 36px;
+}
+
+p.arial {
+	font-family: Arial;
+}
+
+p.verdana {
+	font-family: Verdana;
+}
+
+p.arial:before {
+content: 'Arial • ';
+color:crimson;
+}
+
+p.verdana:before {
+content: 'Verdana • ';
+color:crimson;
+}
+
+
+
+p.palestine {
+	font-size: 24px;
+}
+
+p.grosromain {
+	font-size: 18px;
+}
+
+p.saintaugustin {
+	font-size: 14px;
+}
+
+p.cicero {
+	font-size: 12px;
+}
+
+p.petitromain {
+	font-size: 10px;
+}
+
+p.gaillarde {
+	font-size: 9px;
+}
+
+p.petittexte {
+	font-size: 8px;
+}
+
+p.mignonne {
+	font-size: 7px;
+}
+
+p.nompareille {
+	font-size: 6px;
+}
+
+
+h1 {
+	text-align: left;
+	font-family: 'Grotesk',sans-serif;
+    font-style: normal;
+    font-stretch: normal;
+	font-size: 60px;
+	line-height:60px;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
