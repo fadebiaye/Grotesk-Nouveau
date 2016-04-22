@@ -1,0 +1,1 @@
+Copyright (c) 2010-2016, Frank Adebiaye <fadebiaye@gmail.com> - Licence SIL OFL 1.1 - http://scripts.sil.org/OFL
