@@ -2,6 +2,10 @@
 
 Grotesk is a plan titling sans serif remaining simple enough to be usable in many contexts.
 
+## Preview
+
+![alt tag](https://github.com/fadebiaye/Grotesk-Nouveau/blob/master/documentation/images/nouveau%20grotesk_glyphs_01.png)
+
 ## Specimen
 
 
