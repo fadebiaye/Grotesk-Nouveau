@@ -1,4 +1,4 @@
-# Myfont
+# Grotesk
 
 Grotesk is a plan titling sans serif remaining simple enough to be usable in many contexts.
 
